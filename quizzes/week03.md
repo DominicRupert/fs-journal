@@ -3,7 +3,10 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+abstraction,
+encapsulation,
+inheritance,
+polymorphism
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -16,17 +19,17 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+staff.property
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+seperating out parts of your application between different js files to make things easier to read and understand
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+single responsibility principle: a class should have one and only one reason to change, meaning that a class should only have one job
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
