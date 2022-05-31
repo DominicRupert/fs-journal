@@ -34,32 +34,32 @@ single responsibility principle: a class should have one and only one reason to 
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+a class is a detailed object build with a constructor, an instance of a class is you calling the constructed class
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+a proxy object is an object that is obfuscated from the appstate using a proxy
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-
+to seperate out code, making it easier to read and understand
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+the controller controls how the data is presented to the viewport
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+the service is all the background functions that the user never really sees
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+the model is the layout of the main objects being used in the application
 ```
